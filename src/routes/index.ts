@@ -1,0 +1,1 @@
+export { AuthRoutesInst } from "./authroutes";

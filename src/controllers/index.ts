@@ -1,0 +1,1 @@
+export { AuthControllerInst } from './authcontroller';
